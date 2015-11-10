@@ -1,0 +1,79 @@
+
+#main{
+    
+position: relative;
+width: 800px;    
+margin:0 auto;
+}
+
+#top{
+    text-align: center;
+    background-color:aqua; 
+}
+div{
+
+border: 1px solid;
+
+}
+
+#wmf{
+background-color: darkslateblue;
+position: relative;
+float: left;
+padding: 15px;
+width: 367px;
+}
+#jgp{
+position: relative;
+float: left;
+
+width: 242px;
+background-color: darkslateblue;
+    
+    padding: 11px;
+}
+#vekt,#namn{
+
+overflow: auto;
+
+}
+#jpghel,#wmfhel{
+position: relative;
+overflow: auto;
+background-color: dimgrey;
+
+}
+#rast,#vekt{
+padding-left: 10px;
+background-color: darkturquoise;
+}
+#namn{
+text-align: center;
+background-color: dodgerblue;
+}
+
+
+.g{
+
+text-transform: capitalize;
+
+}
+.g:first-letter{
+font-size: 2em;
+
+}
+.spane{
+font-size: 2em;
+
+}
+.sak{
+width: 200px;
+    padding-top: 44px;
+
+
+}
+.tarn{
+width: 200px;
+    padding-top: 82px;
+
+}

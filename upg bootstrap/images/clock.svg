@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.922222mm"
+   height="40.922222mm"
+   viewBox="0 0 145 145"
+   id="svg3491"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="clock.svg">
+  <defs
+     id="defs3493">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4333">
+      <stop
+         style="stop-color:#00ff66;stop-opacity:1;"
+         offset="0"
+         id="stop4335" />
+      <stop
+         style="stop-color:#00ff66;stop-opacity:0;"
+         offset="1"
+         id="stop4337" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3629">
+      <stop
+         offset="0"
+         style="stop-color:#d2d2d2"
+         id="stop3631" />
+      <stop
+         offset="1"
+         style="stop-color:#6e6e6e"
+         id="stop3633" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3615">
+      <stop
+         offset="0"
+         style="stop-color:#dcdad6"
+         id="stop3617" />
+      <stop
+         offset=".10158"
+         style="stop-color:#eae8e3"
+         id="stop3623" />
+      <stop
+         offset=".37743"
+         style="stop-color:#d4d2ce"
+         id="stop3625" />
+      <stop
+         offset=".58091"
+         style="stop-color:#bebcb8"
+         id="stop3627" />
+      <stop
+         offset="1"
+         style="stop-color:#a2a09d"
+         id="stop3619" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4333"
+       id="linearGradient4339"
+       x1="72.142853"
+       y1="888.07648"
+       x2="71.785713"
+       y2="1123.4336"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="45.949949"
+     inkscape:cy="74.881846"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3496">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-907.36218)">
+    <circle
+       style="fill:url(#linearGradient4339)"
+       id="path4023"
+       cx="72.5"
+       cy="979.50507"
+       r="72.5" />
+    <g
+       id="g4572"
+       transform="matrix(0.47030044,0,0,0.47030044,18.821286,920.64497)"
+       style="fill:#ffffff">
+      <g
+         id="g4528"
+         style="fill:#ffffff">
+        <path
+           id="path4530"
+           d="m 130.928,27.877 0,-12.98 c 3.577,-0.57 6.314,-3.66 6.314,-7.397 0,-4.142 -3.358,-7.5 -7.5,-7.5 l -28.699,0 c -4.142,0 -7.5,3.358 -7.5,7.5 0,3.738 2.737,6.828 6.314,7.397 l 0,12.98 c -48.921,7.504 -86.509,49.877 -86.509,100.864 0,56.268 45.777,102.044 102.044,102.044 56.267,0 102.044,-45.777 102.044,-102.044 0.002,-50.986 -37.587,-93.36 -86.508,-100.864 z M 109.858,15 l 11.07,0 0,11.848 c -1.833,-0.098 -3.678,-0.152 -5.535,-0.152 -1.857,0 -3.702,0.053 -5.535,0.152 l 0,-11.848 z m 5.535,200.786 c -47.997,0 -87.044,-39.048 -87.044,-87.044 0,-47.996 39.048,-87.045 87.044,-87.045 47.996,0 87.044,39.048 87.044,87.045 0,47.997 -39.047,87.044 -87.044,87.044 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           id="path4532"
+           d="m 115.393,53.771 c -41.339,0 -74.97,33.631 -74.97,74.97 0,41.338 33.631,74.97 74.97,74.97 41.339,0 74.97,-33.631 74.97,-74.97 0,-41.338 -33.631,-74.97 -74.97,-74.97 z m 0,139.94 c -35.825,0 -64.97,-29.146 -64.97,-64.97 0,-35.825 29.146,-64.97 64.97,-64.97 35.824,0 64.97,29.146 64.97,64.97 0,35.825 -29.145,64.97 -64.97,64.97 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           id="path4534"
+           d="m 141.916,129.013 -21.523,0 0,-37.341 c 0,-2.761 -2.239,-5 -5,-5 -2.761,0 -5,2.239 -5,5 l 0,42.341 c 0,2.761 2.239,5 5,5 l 26.523,0 c 2.761,0 5,-2.239 5,-5 0,-2.761 -2.239,-5 -5,-5 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <g
+         id="g4536"
+         style="fill:#ffffff" />
+      <g
+         id="g4538"
+         style="fill:#ffffff" />
+      <g
+         id="g4540"
+         style="fill:#ffffff" />
+      <g
+         id="g4542"
+         style="fill:#ffffff" />
+      <g
+         id="g4544"
+         style="fill:#ffffff" />
+      <g
+         id="g4546"
+         style="fill:#ffffff" />
+      <g
+         id="g4548"
+         style="fill:#ffffff" />
+      <g
+         id="g4550"
+         style="fill:#ffffff" />
+      <g
+         id="g4552"
+         style="fill:#ffffff" />
+      <g
+         id="g4554"
+         style="fill:#ffffff" />
+      <g
+         id="g4556"
+         style="fill:#ffffff" />
+      <g
+         id="g4558"
+         style="fill:#ffffff" />
+      <g
+         id="g4560"
+         style="fill:#ffffff" />
+      <g
+         id="g4562"
+         style="fill:#ffffff" />
+      <g
+         id="g4564"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

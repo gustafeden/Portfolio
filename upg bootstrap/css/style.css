@@ -1,0 +1,241 @@
+@font-face {
+    font-family: steiner;
+    src: url('../fonts/Steinerlight.ttf');
+}
+
+@font-face {
+    font-family: circled;
+    src: url('../fonts/circled_font_by_crazyformusic.ttf');
+}
+
+@font-face {
+    font-family: trendex;
+    src: url('../fonts/trendexlightssi.ttf');
+}
+
+@font-face {
+    font-family: buhus;
+    src: url('../fonts/buhus.ttf');
+}
+
+.bgimage {
+    background-image: url('../images/lorem_3.gif');
+    background-position: center center;
+    background-size: cover;
+    height: 90px;
+}
+
+.bsimage {
+    background-image: url('../images/oke.gif');
+    background-position: center center;
+    background-size: cover;
+    height: 90px;
+}
+
+.bssimage {
+    background-image: url('../images/fucked.gif');
+    background-position: center center;
+    background-size: cover;
+    height: 90px;
+    color: floralwhite;
+}
+
+.camimg {
+    background-image: url('../images/camera.svg');
+    background-position: center center;
+    background-size: cover;
+    height: 145px;
+    width: 145px;
+}
+
+.earimg {
+    background-image: url('../images/earth.svg');
+    background-position: center center;
+    background-size: cover;
+    height: 145px;
+    width: 145px;
+}
+
+.dlimg {
+    background-image: url('../images/dl.svg');
+    background-position: center center;
+    background-size: cover;
+    height: 145px;
+    width: 145px;
+}
+
+.icon {
+    max-width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+.btnwid {
+    background-color: ;
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+bosdy {
+    background-color: floralwhite;
+}
+
+.steiner {
+    font-family: steiner;
+    text-transform: uppercase;
+}
+
+.circled {
+    font-family: circled;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.trendex {
+    font-family: trendex;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.buhus {
+    font-family: buhus;
+    text-transform: uppercase;
+}
+
+.wheat {
+    background: wheat;
+}
+
+.glyphicon {
+    font-size: 5em;
+    display: block;
+    text-align: center;
+    color: chartreuse;
+}
+
+
+/********************************************************/
+
+
+/*                    Navigation bar                    */
+
+
+/********************************************************/
+
+.mainmenu {
+    z-index: 999999;
+    width: 100%;
+    padding: 17px 0 0 0;
+}
+
+@media (min-width: 768px) {
+    .mainmenu {
+        position: fixed;
+    }
+}
+
+.navbar-toggle {
+    position: relative;
+    float: left;
+    display: block;
+    padding: 9px 10px;
+    background: rgba(255, 255, 255, 0.2);
+    background-image: none;
+    border: 0 none;
+    top: 0px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    outline: 0;
+    opacity: 1;
+    -webkit-transition: all .45s;
+    -moz-transition: all .45s;
+    transition: all .45s;
+    float: left;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: black;
+}
+
+.navbar-toggle .icon-bar + .icon-bar {
+    margin-top: 4px;
+}
+
+.open .navbar-toggle {
+    top: -70px;
+    opacity: 0;
+}
+
+.mainmenu .dropdown-menu {
+    top: -14em;
+    left: 0px;
+    font-size: 13px;
+    padding: 0;
+    background: none;
+    border: 0 none;
+    border-radius: 2px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    display: block;
+    opacity: 0;
+    -webkit-transition: all .45s;
+    -moz-transition: all .45s;
+    transition: all .45s;
+}
+
+.mainmenu .dropdown-menu .active {
+    font-weight: bold;
+}
+
+.mainmenu .open .dropdown-menu {
+    top: 2px;
+    opacity: 1;
+}
+
+.mainmenu .dropdown-menu a {
+    padding: 10px 10px;
+    margin: 0;
+    color: black;
+    text-decoration: none;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.mainmenu .dropdown-menu a:hover {
+    background: rgba(83, 255, 44, 0.2);
+    color: darkslategrey;
+    padding: 10px 8px 10px 12px;
+}
+
+.menop {
+    letter-spacing: 2px;
+    width: auto
+}
+
+.text-info {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.fato {
+    color: #fff;
+    background: #57889c;
+    background-color: #57889c;
+    text-align: center;
+    width: 50%;
+    padding: 1em;
+}
+
+.info-box {
+    margin: 0 auto;
+}
+
+.lello {
+    margin-top: 5%;
+}

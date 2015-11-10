@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.922222mm"
+   height="40.922222mm"
+   viewBox="0 0 145 145"
+   id="svg3491"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dl.svg">
+  <defs
+     id="defs3493">
+    <linearGradient
+       id="linearGradient3629">
+      <stop
+         offset="0"
+         style="stop-color:#d2d2d2"
+         id="stop3631" />
+      <stop
+         offset="1"
+         style="stop-color:#6e6e6e"
+         id="stop3633" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3615">
+      <stop
+         offset="0"
+         style="stop-color:#dcdad6"
+         id="stop3617" />
+      <stop
+         offset=".10158"
+         style="stop-color:#eae8e3"
+         id="stop3623" />
+      <stop
+         offset=".37743"
+         style="stop-color:#d4d2ce"
+         id="stop3625" />
+      <stop
+         offset=".58091"
+         style="stop-color:#bebcb8"
+         id="stop3627" />
+      <stop
+         offset="1"
+         style="stop-color:#a2a09d"
+         id="stop3619" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="45.949949"
+     inkscape:cy="89.16756"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3496">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-907.36218)">
+    <circle
+       style="fill:#668000"
+       id="path4023"
+       cx="72.5"
+       cy="979.86218"
+       r="72.5" />
+    <g
+       id="g4140"
+       transform="matrix(6.5580357,0,0,6.9285715,19.5,921.00502)"
+       style="fill:#ffffff">
+      <g
+         id="g4100"
+         style="fill:#ffffff">
+        <path
+           id="path4102"
+           d="M 13,7 C 13,4.791 11.209,3 9,3 7.502,3 6.195,3.824 5.511,5.043 5.345,5.015 5.174,5 5,5 3.646,5 2.5,5.897 2.128,7.131 0.896,7.508 0,8.651 0,10 c 0,1.657 1.337,3 3.01,3 l 9.98,0 C 14.652,13 16,11.653 16,10 16,8.347 14.668,7.005 13,7 Z M 8,12 5,8 7,8 7,5 9,5 9,8 11,8 8,12 Z"
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4104"
+         style="fill:#ffffff" />
+      <g
+         id="g4106"
+         style="fill:#ffffff" />
+      <g
+         id="g4108"
+         style="fill:#ffffff" />
+      <g
+         id="g4110"
+         style="fill:#ffffff" />
+      <g
+         id="g4112"
+         style="fill:#ffffff" />
+      <g
+         id="g4114"
+         style="fill:#ffffff" />
+      <g
+         id="g4116"
+         style="fill:#ffffff" />
+      <g
+         id="g4118"
+         style="fill:#ffffff" />
+      <g
+         id="g4120"
+         style="fill:#ffffff" />
+      <g
+         id="g4122"
+         style="fill:#ffffff" />
+      <g
+         id="g4124"
+         style="fill:#ffffff" />
+      <g
+         id="g4126"
+         style="fill:#ffffff" />
+      <g
+         id="g4128"
+         style="fill:#ffffff" />
+      <g
+         id="g4130"
+         style="fill:#ffffff" />
+      <g
+         id="g4132"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
